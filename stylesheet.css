@@ -1,0 +1,23 @@
+h1{
+    font-family: 'fresca', sans-serif;
+    text-align: center;
+    color: grey;
+    font-size: 60px;
+}
+
+body{
+    background: grey;  
+}
+ul{
+    background: black;
+    padding: 10px;
+    
+}
+a{
+    color: white;
+    font-family: 'fresca', sans-serif;
+}
+li {
+    display: inline;
+    padding: 0px 100px 0px  100px;
+}
